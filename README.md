@@ -17,6 +17,11 @@ This program performs basic arithmetic operations:
 
 It uses the Scanner class for user input and loops for multiple calculations.
 
+## Output Screenshot
+<img width="450" height="750" alt="image" src="https://github.com/user-attachments/assets/dbc6f441-9555-4f02-981d-00cad74cf337" />
+
+
+
 ## How to Run
 1. Open terminal in this folder.
 2. Compile: `Calculator.java`
